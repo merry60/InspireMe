@@ -2,12 +2,8 @@
 
 A beautifully designed, production-ready Flutter app that delivers daily motivational quotes. The app focuses on providing a buttery-smooth user experience with rich animations, seamless theming, and an architecture designed for scalability, offline-resilience, and cross-device synchronization.
 
----
 
-## 📸 Screenshots
-[Add 2-3 screenshots here — light mode, dark mode, favorites]
 
----
 
 ## 🎯 Project Overview & Architecture
 
