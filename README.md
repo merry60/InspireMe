@@ -83,7 +83,7 @@ In **InspireMe**, the focus was not just on building a functional app, but on ut
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/yourusername/inspireme
+   git clone https://github.com/merry60/InspireMe.git
    ```
 
 2. **Install dependencies**
